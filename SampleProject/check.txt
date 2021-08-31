@@ -1,0 +1,1 @@
+This is conflicting file in branch 2
